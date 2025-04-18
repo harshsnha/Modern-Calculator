@@ -23,26 +23,18 @@ You can view a live version of this calculator [here](#) (update this with your 
 
 
 🧠 JavaScript Functions
-appendCharacter(char) – Appends digits/operators to the display.
-
-clearDisplay() – Clears the entire input.
-
-backspace() – Deletes the last character.
-
-calculate() – Evaluates the expression using eval().
+- appendCharacter(char) – Appends digits/operators to the display.
+- clearDisplay() – Clears the entire input.
+- backspace() – Deletes the last character.
+- calculate() – Evaluates the expression using eval().
 
 📌 To-Do / Ideas
-Add keyboard input support
-
-Improve error handling for invalid expressions
-
-Add memory functions (MC, MR, M+, etc.)
-
-Implement themes (light/dark)
+- Add keyboard input support
+- Improve error handling for invalid expressions
+- Add memory functions (MC, MR, M+, etc.)
+- Implement themes (light/dark)
 
 🛠️ Tech Stack
-HTML5
-
-CSS3 (with Flexbox and Grid)
-
-Vanilla JavaScript
+- HTML5
+- CSS3 (with Flexbox and Grid)
+- Vanilla JavaScript
