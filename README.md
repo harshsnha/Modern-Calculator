@@ -2,11 +2,6 @@
 
 A simple, elegant, and responsive web-based calculator built using **HTML**, **CSS**, and **JavaScript**. This project features a modern UI and basic calculator functionality including addition, subtraction, multiplication, division, decimal support, backspace, and clear.
 
-## 🚀 Live Demo
-
-You can view a live version of this calculator [here](#) (update this with your GitHub Pages or deployment link).
-
----
 
 ## ✨ Features
 
